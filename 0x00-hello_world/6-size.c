@@ -9,6 +9,5 @@ printf("size of a char: %i byte(s)\n", sizeof(char));
 printf("size of a char: %i byte(s)\n", sizeof(char));
 printf("size of a char: %i byte(s)\n", sizeof(char));
 printf("size of a char: %i byte(s)\n", sizeof(char));
-printf("size of a char: %i byte(s)\n", sizeof(char));
 return (0);
 }
