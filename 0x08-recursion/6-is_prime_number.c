@@ -2,7 +2,7 @@
 
 /**
  * check - checks to see if number is prime
- * @b:int
+ * @a:int
  * @b:int
  *
  * Return:int
